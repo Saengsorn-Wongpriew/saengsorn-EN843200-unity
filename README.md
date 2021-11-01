@@ -6,3 +6,5 @@
 ### Part3
 - webbuild: https://saengsorn-wongpriew.github.io/saengsorn-EN843200-unity/lab5/problem3/webBuild
 - video: https://github.com/Saengsorn-Wongpriew/saengsorn-EN843200-unity/blob/main/lab5/problem3/video/lab5part3.mp4
+## Lab 7
+- https://youtu.be/qKI7yybggS0
